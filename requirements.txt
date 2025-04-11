@@ -1,0 +1,6 @@
+streamlit
+pandas
+pytz
+matplotlib
+streamlit-autorefresh
+git+https://github.com/meoww-bot/betsapi-python.git
