@@ -1,6 +1,7 @@
 streamlit
 pandas
-pytz
 matplotlib
+pytz
+requests
 streamlit-autorefresh
 git+https://github.com/meoww-bot/betsapi-python.git
